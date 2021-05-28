@@ -1,18 +1,18 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://www.linkedin.com/in/chirag-mehta-287633190/">
+  <img align="left" alt="Chirag_Mehta Linkedin" width="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/chirag_mehta900?s=08">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="auto" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://github.com/chiragmehta900">
+  <img align="left" alt="Abhishek's LinkedIN" width="auto" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://www.instagram.com/chirag_mehta._/">
+  <img align="left" alt="Abhishek's Spotify" width="auto" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <br />
 
@@ -29,18 +29,18 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://chiragresume.vercel.app/images/svg/cloud-computing.svg"></code>
-<code><img height="20" src="https://chiragresume.vercel.app/images/svg/up-arrow.svg"></code>
-<code><img height="20" src="https://chiragresume.vercel.app/images/svg/github.svg"></code>
-<code><img height="20" src="https://chiragresume.vercel.app/images/svg/physics.svg"></code>
-<code><img height="20" src="https://chiragresume.vercel.app/images/svg/nodejs.svg"></code>
-<code><img height="20" src="https://chiragresume.vercel.app/images/svg/php.svg"></code>
-<code><img height="20" src="https://chiragresume.vercel.app/images/svg/c.svg"></code>
-<code><img height="20" src="https://chiragresume.vercel.app/images/svg/typescript.svg"></code>
-<code><img height="20" src="https://chiragresume.vercel.app/images/svg/js-file.svg"></code>
-<code><img height="20" src="https://chiragresume.vercel.app/images/svg/sass.svg"></code>
-<code><img height="20" src="https://chiragresume.vercel.app/images/svg/css.svg"></code>
-<code><img height="20" src="https://chiragresume.vercel.app/images/svg/html-5.svg"></code>
+<code><img height="30" src="https://chiragresume.vercel.app/images/svg/cloud-computing.svg"></code>
+<code><img height="30" src="https://chiragresume.vercel.app/images/svg/up-arrow.svg"></code>
+<code><img height="30" src="https://chiragresume.vercel.app/images/svg/github.svg"></code>
+<code><img height="30" src="https://chiragresume.vercel.app/images/svg/physics.svg"></code>
+<code><img height="30" src="https://chiragresume.vercel.app/images/svg/nodejs.svg"></code>
+<code><img height="30" src="https://chiragresume.vercel.app/images/svg/php.svg"></code>
+<code><img height="30" src="https://chiragresume.vercel.app/images/svg/c.svg"></code>
+<code><img height="30" src="https://chiragresume.vercel.app/images/svg/typescript.svg"></code>
+<code><img height="30" src="https://chiragresume.vercel.app/images/svg/js-file.svg"></code>
+<code><img height="30" src="https://chiragresume.vercel.app/images/svg/sass.svg"></code>
+<code><img height="30" src="https://chiragresume.vercel.app/images/svg/css.svg"></code>
+<code><img height="30" src="https://chiragresume.vercel.app/images/svg/html-5.svg"></code>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
@@ -55,20 +55,14 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/chiragmehta900" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
+<!-- 🚧 **My Todoist Stats:**
 🏆  7,837 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 642 tasks so far           
 ⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="chiragmehta900" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="chiragmehta900" /> -->
 
-
-
-
-# github
