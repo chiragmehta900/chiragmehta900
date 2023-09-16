@@ -16,7 +16,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img height="100" alt="languages and tools" src="./assets/images/lng-tools.png">
 <br />
 <br />
-<br />
 
 <div>
     <img height="80" alt="java" src="./assets/icons/java.svg">
