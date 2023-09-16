@@ -1,28 +1,21 @@
-<div>
-
-<div style="margin-bottom: -110px">
-    <img alt="intro banner" src="./assets/images/banner.svg">
-</div>
+<img alt="intro banner" src="./assets/images/banner.svg">
 
 Hi, I'm [Chirag Mehta](https://chiragresume.vercel.app/), a passionate self-taught Front-End web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<div style="display: flex; justify-content: space-between; position: relative;">
-    <div>
-        <img height="10" alt="java" src="./assets/images/dot.svg"> Ask me about anything, I am happy to help; <br />
-        <img height="10" alt="java" src="./assets/images/dot.svg"> How to reach me: chiragmehta900@gmail.com <br />
-        <img height="10" alt="java" src="./assets/images/dot.svg"> Resume
-    </div>
-    <div>
-        <img align="right" style="height: 200px;" alt="GIF" src="./assets/images/center.svg" />
-    </div>
-</div>
+
+<img height="10" alt="java" src="./assets/images/dot.svg"> Ask me about anything, I am happy to help; <br />
+<img height="10" alt="java" src="./assets/images/dot.svg"> How to reach me: chiragmehta900@gmail.com <br />
+<img height="10" alt="java" src="./assets/images/dot.svg"> Resume
+<img align="right" height="230" alt="GIF" src="./assets/images/center.svg" />
 
 <br />
 <br />
 <br />
-<img style="margin-top: 40px; margin-bottom: 10px; height: 100px;" alt="languages and tools" src="./assets/images/lng-tools.png">
+<img height="100" alt="languages and tools" src="./assets/images/lng-tools.png">
+<br />
+<br />
 <br />
 <br />
 
@@ -60,14 +53,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img height="80" alt="figma" src="./assets/icons/figma.svg">
 <img height="80" alt="sketch" src="./assets/icons/sketch.svg">
 
-<div style="text-align: center;">
-    <img style="" alt="Chirag Mehta" src="./assets/images/chirag-mehta.svg">
-    <div style="margin-top: -60px">
-        <p style="font-size: 15px">chiragmehta900@gmail.com</p>
-        <img height="25" alt="social media" src="./assets/icons/social-media.svg">
-    </div>
-</div>
+
+<img alt="Chirag Mehta" src="./assets/images/chirag-mehta.svg">
+
 
 [//]: # (<a href="https://www.buymeacoffee.com/chiragmehta900" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>)
 
-</div>
