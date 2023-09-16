@@ -17,7 +17,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br />
 <br />
 <br />
-<br />
 
 <div>
     <img height="80" alt="java" src="./assets/icons/java.svg">
