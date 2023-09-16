@@ -12,9 +12,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <br />
 <br />
-<br />
 <img height="100" alt="languages and tools" src="./assets/images/lng-tools.png">
-<br />
 <br />
 
 <div>
