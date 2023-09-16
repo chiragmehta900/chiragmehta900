@@ -1,70 +1,69 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/chirag-mehta-287633190/">
-  <img align="left" alt="Chirag_Mehta Linkedin" width="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/chirag_mehta900?s=08">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="auto" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://github.com/chiragmehta900">
-  <img align="left" alt="Abhishek's LinkedIN" width="auto" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/chirag_mehta._/">
-  <img align="left" alt="Abhishek's Spotify" width="auto" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<div style="background-image: url('https://jod-e.s3.ap-south-1.amazonaws.com/Jod-e%20Shop/1694878219006jod-e.png'); background-size: cover; background-position: center; background-repeat: no-repeat; width: 100%; padding-left: 20px">
 
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-<br />
+<div style="margin-bottom: -110px">
+    <img alt="intro banner" src="./assets/images/banner.svg">
+</div>
 
 Hi, I'm [Chirag Mehta](https://chiragresume.vercel.app/), a passionate self-taught Front-End web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
+<div style="display: flex; justify-content: space-between; position: relative;">
+    <div>
+        <img height="10" style='margin-right: 5px;' alt="java" src="./assets/images/dot.svg">Ask me about anything, I am happy to help; <br />
+        <img height="10" style='margin-right: 5px;' alt="java" src="./assets/images/dot.svg">How to reach me: chiragmehta900@gmail.com <br />
+        <img height="10" style='margin-right: 5px;' alt="java" src="./assets/images/dot.svg">Resume
+    </div>
+    <div>
+        <img style="position: absolute; height: 200px; right: 50px; top: -40px" alt="GIF" src="./assets/images/center.svg" />
+    </div>
+</div>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@chiragmehta900](mailto:chiragmehta900@gmail.com?subject=Enquire%20for%20web%20development&body=hey%20chirag%20i%20want%20some%20help%20in%20web%20development.);
-- 📝 [Resume](https://chiragresume.vercel.app/images/resume/Chirag_Mehta_CV.pdf)
+<img style="margin-top: 40px; margin-bottom: 10px; height: 100px;" alt="languages and tools" src="./assets/images/lng-tools.png">
+<br />
 
-**Languages and Tools:**  
+<img height="80" alt="java" src="./assets/icons/java.svg">
+<img height="80" alt="css" src="./assets/icons/css.svg">
+<img height="80" alt="reactJs" src="./assets/icons/reactJs.svg">
+<img height="80" alt="nextJs" src="./assets/icons/nextJs.svg">
+<img height="80" alt="socket" src="./assets/icons/socket.svg">
+<img height="80" alt="flask" src="./assets/icons/flask.svg">
+<img height="80" alt="tailwind" src="./assets/icons/tailwind.svg">
+<img height="80" alt="javaScript" src="./assets/icons/javaScript.svg">
+<img height="80" alt="typeScript" src="./assets/icons/typeScript.svg">
+<img height="80" alt="nest" src="./assets/icons/nest.svg">
+<img height="80" alt="nodeJs" src="./assets/icons/nodeJs.svg">
+<img height="80" alt="graphQl" src="./assets/icons/graphQl.svg">
+<img height="80" alt="deno" src="./assets/icons/deno.svg">
+<img height="80" alt="typeOrm" src="./assets/icons/typeOrm.svg">
+<img height="80" alt="mongoDB" src="./assets/icons/mongoDB.svg">
+<img height="80" alt="reactNative" src="./assets/icons/reactNative.svg">
+<img height="80" alt="ios" src="./assets/icons/ios.svg">
+<img height="80" alt="android" src="./assets/icons/android.svg">
+<img height="80" alt="aws" src="./assets/icons/aws.svg">
+<img height="80" alt="azure" src="./assets/icons/azure.svg">
+<img height="80" alt="docker" src="./assets/icons/docker.svg">
+<img height="80" alt="vercel" src="./assets/icons/vercel.svg">
+<img height="80" alt="heroku" src="./assets/icons/heroku.svg">
+<img height="80" alt="github" src="./assets/icons/github.svg">
+<img height="80" alt="dev" src="./assets/icons/dev.svg">
+<img height="80" alt="intellijIdea" src="./assets/icons/intellijIdea.svg">
+<img height="80" alt="vsCode" src="./assets/icons/vsCode.svg">
+<img height="80" alt="visualStudio" src="./assets/icons/visualStudio.svg">
+<img height="80" alt="photoShop" src="./assets/icons/photoShop.svg">
+<img height="80" alt="ai" src="./assets/icons/ai.svg">
+<img height="80" alt="xd" src="./assets/icons/xd.svg">
+<img height="80" alt="figma" src="./assets/icons/figma.svg">
+<img height="80" alt="sketch" src="./assets/icons/sketch.svg">
 
-<code><img height="30" src="https://chiragresume.vercel.app/images/svg/cloud-computing.svg"></code>
-<code><img height="30" src="https://chiragresume.vercel.app/images/svg/up-arrow.svg"></code>
-<code><img height="30" src="https://chiragresume.vercel.app/images/svg/github.svg"></code>
-<code><img height="30" src="https://chiragresume.vercel.app/images/svg/physics.svg"></code>
-<code><img height="30" src="https://chiragresume.vercel.app/images/svg/nodejs.svg"></code>
-<code><img height="30" src="https://chiragresume.vercel.app/images/svg/php.svg"></code>
-<code><img height="30" src="https://chiragresume.vercel.app/images/svg/c.svg"></code>
-<code><img height="30" src="https://chiragresume.vercel.app/images/svg/typescript.svg"></code>
-<code><img height="30" src="https://chiragresume.vercel.app/images/svg/js-file.svg"></code>
-<code><img height="30" src="https://chiragresume.vercel.app/images/svg/sass.svg"></code>
-<code><img height="30" src="https://chiragresume.vercel.app/images/svg/css.svg"></code>
-<code><img height="30" src="https://chiragresume.vercel.app/images/svg/html-5.svg"></code>
+<div style="text-align: center;">
+    <img style="" alt="Chirag Mehta" src="./assets/images/chirag-mehta.svg">
+    <div style="margin-top: -60px">
+        <p style="font-size: 15px">chiragmehta900@gmail.com</p>
+        <img height="25" alt="social media" src="./assets/icons/social-media.svg">
+    </div>
+</div>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JSX          7 hrs 25 mins   ██████████████████████▒░░   89.21 % 
-JavaScript   48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-C++          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-```
-<!--END_SECTION:waka-->
+[//]: # (<a href="https://www.buymeacoffee.com/chiragmehta900" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>)
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/chiragmehta900" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-<!-- 🚧 **My Todoist Stats:**
-🏆  7,837 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 642 tasks so far           
-⏳  Longest streak is 10 days
-
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="chiragmehta900" /> -->
-
-
-![](./profile-3d-contrib/profile-green-animate.svg)
+</div>
