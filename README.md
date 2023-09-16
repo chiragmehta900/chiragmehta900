@@ -1,4 +1,4 @@
-<div style="background-image: url('https://jod-e.s3.ap-south-1.amazonaws.com/Jod-e%20Shop/1694878219006jod-e.png'); background-size: cover; background-position: center; background-repeat: no-repeat; width: 100%; padding-left: 20px">
+<div>
 
 <div style="margin-bottom: -110px">
     <img alt="intro banner" src="./assets/images/banner.svg">
@@ -10,16 +10,20 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <div style="display: flex; justify-content: space-between; position: relative;">
     <div>
-        <img height="10" style='margin-right: 5px;' alt="java" src="./assets/images/dot.svg">Ask me about anything, I am happy to help; <br />
-        <img height="10" style='margin-right: 5px;' alt="java" src="./assets/images/dot.svg">How to reach me: chiragmehta900@gmail.com <br />
-        <img height="10" style='margin-right: 5px;' alt="java" src="./assets/images/dot.svg">Resume
+        <img height="10" alt="java" src="./assets/images/dot.svg"> Ask me about anything, I am happy to help; <br />
+        <img height="10" alt="java" src="./assets/images/dot.svg"> How to reach me: chiragmehta900@gmail.com <br />
+        <img height="10" alt="java" src="./assets/images/dot.svg"> Resume
     </div>
     <div>
-        <img style="position: absolute; height: 200px; right: 50px; top: -40px" alt="GIF" src="./assets/images/center.svg" />
+        <img align="right" style="height: 200px;" alt="GIF" src="./assets/images/center.svg" />
     </div>
 </div>
 
+<br />
+<br />
+<br />
 <img style="margin-top: 40px; margin-bottom: 10px; height: 100px;" alt="languages and tools" src="./assets/images/lng-tools.png">
+<br />
 <br />
 
 <img height="80" alt="java" src="./assets/icons/java.svg">
