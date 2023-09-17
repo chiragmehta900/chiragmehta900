@@ -8,13 +8,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img height="10" alt="java" src="./assets/images/dot.svg"> Ask me about anything, I am happy to help; <br />
 <img height="10" alt="java" src="./assets/images/dot.svg"> How to reach me: chiragmehta900@gmail.com <br />
 <img height="10" alt="java" src="./assets/images/dot.svg"> Resume
-<img align="right" height="230" alt="GIF" src="./assets/images/center.svg" />
 
-<br />
-<br />
-<img height="100" alt="languages and tools" src="./assets/images/lng-tools.png">
-<br />
-<br />
+<img alt="languages and tools" src="./assets/images/lng-tools.svg">
 
 <div>
     <img height="80" alt="java" src="./assets/icons/java.svg">
