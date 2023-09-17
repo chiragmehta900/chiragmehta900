@@ -50,11 +50,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img alt="languages and tools" src="./assets/images/project-product.svg">
 
 <div>
-    <img height="300" alt="zognest" src="./assets/images/zognest.svg">
-    <img height="300" alt="9 one line" src="./assets/images/9one-line.svg">
-    <img height="300" alt="ozi" src="./assets/images/ozi.svg">
-    <img height="300" alt="store loop" src="./assets/images/store-loop.svg">
-    <img height="300" alt="salt pos" src="./assets/images/salt-pos.svg">
+    <img height="250" alt="zognest" src="./assets/images/zognest.svg">
+    <img height="250" alt="9 one line" src="./assets/images/9one-line.svg">
+    <img height="250" alt="ozi" src="./assets/images/ozi.svg">
+    <img height="250" alt="store loop" src="./assets/images/store-loop.svg">
+    <img height="250" alt="salt pos" src="./assets/images/salt-pos.svg">
 </div>
 
 
